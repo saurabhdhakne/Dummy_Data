@@ -1,9 +1,46 @@
-[{"name":"Lars","testimonial":"donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris","image":"http://dummyimage.com/248x.png/5fa2dd/ffffff","rating":2},
-{"name":"Hendrika","testimonial":"non mi integer ac neque duis bibendum morbi non quam nec dui luctus","image":"http://dummyimage.com/222x.png/dddddd/000000","rating":4},
-{"name":"Cyrus","testimonial":"congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras","image":"http://dummyimage.com/212x.png/dddddd/000000","rating":4},
-{"name":"Faunie","testimonial":"morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum","image":"http://dummyimage.com/235x.png/5fa2dd/ffffff","rating":5},
-{"name":"Leora","testimonial":"mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel","image":"http://dummyimage.com/211x.png/ff4444/ffffff","rating":2},
-{"name":"Nollie","testimonial":"maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est","image":"http://dummyimage.com/219x.png/dddddd/000000","rating":3},
-{"name":"Kassandra","testimonial":"in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat","image":"http://dummyimage.com/204x.png/5fa2dd/ffffff","rating":5},
-{"name":"Goldia","testimonial":"erat quisque erat eros viverra","image":"http://dummyimage.com/200x.png/cc0000/ffffff","rating":5},
-{"name":"Lauri","testimonial":"ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit","image":"http://dummyimage.com/203x.png/ff4444/ffffff","rating":4}]
+[{
+  "name": "Trudey",
+  "testimonial": "justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis",
+  "image": "http://dummyimage.com/240x.png/5fa2dd/ffffff",
+  "rating": 5
+}, {
+  "name": "Klemens",
+  "testimonial": "quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla",
+  "image": "http://dummyimage.com/216x.png/dddddd/000000",
+  "rating": 3
+}, {
+  "name": "Christie",
+  "testimonial": "dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi",
+  "image": "http://dummyimage.com/220x.png/ff4444/ffffff",
+  "rating": 4
+}, {
+  "name": "Sarina",
+  "testimonial": "tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget",
+  "image": "http://dummyimage.com/248x.png/ff4444/ffffff",
+  "rating": 5
+}, {
+  "name": "Carlye",
+  "testimonial": "justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id",
+  "image": "http://dummyimage.com/221x.png/ff4444/ffffff",
+  "rating": 5
+}, {
+  "name": "Jemmie",
+  "testimonial": "nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
+  "image": "http://dummyimage.com/244x.png/dddddd/000000",
+  "rating": 5
+}, {
+  "name": "Maisey",
+  "testimonial": "maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum",
+  "image": "http://dummyimage.com/243x.png/cc0000/ffffff",
+  "rating": 5
+}, {
+  "name": "Clari",
+  "testimonial": "sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia",
+  "image": "http://dummyimage.com/216x.png/5fa2dd/ffffff",
+  "rating": 4
+}, {
+  "name": "Wallas",
+  "testimonial": "mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+  "image": "http://dummyimage.com/204x.png/5fa2dd/ffffff",
+  "rating": 5
+}]
